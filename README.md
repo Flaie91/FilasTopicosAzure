@@ -15,6 +15,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+#ATUALIZADO EM NOVEMBRO DE 2024 POR ANTÔNIO FLÁVIO (Flaie91) de Net Core para Net 8.0; de Microsoft.Azure.ServiceBus para Azure.Messaging.ServiceBus; 
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
